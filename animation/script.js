@@ -21,3 +21,8 @@ function myFunction() {
 	// Reverse the drawing (when scrolling upwards)
 	triangle.style.strokeDashoffset = length - draw;
 }
+
+var shape = document.getElementById('shape');
+setTimeout(function () {
+	shape.setAttribute('stroke-dashoffset', 0);
+}, 0);
