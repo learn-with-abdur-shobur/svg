@@ -1,2 +1,5 @@
 https://yqnn.github.io/svg-path-editor/ 
 https://css-tricks.com/books/greatest-css-tricks/scroll-animation/
+https://www.hongkiat.com/blog/svg-animations/
+https://patagonian.com/blog/introduction-to-svg-animations/
+https://getloaf.io/
